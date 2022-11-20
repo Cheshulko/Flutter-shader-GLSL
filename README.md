@@ -15,7 +15,7 @@ Flutter SDK 3.4 or later
 
 | Shader  | Path | Shadertoy`s link |
 | -------  |---| --- |
-| <img src="https://github.com/Cheshulko/Flutter-Shader-GLSL/blob/main/assets/sc_4.png?raw=true" width="532" height="400" /> | assets/shader_test_1.glsl | https://www.shadertoy.com/view/Ml2XRD |
-| <img src="https://github.com/Cheshulko/Flutter-Shader-GLSL/blob/main/assets/sc_3.png?raw=true" width="532" height="400" /> | assets/shader_test_2.glsl | https://www.shadertoy.com/view/ftSSRR |
-| <img src="https://github.com/Cheshulko/Flutter-Shader-GLSL/blob/main/assets/sc_5.png?raw=true" width="532" height="400" /> | assets/shader_test_3.glsl | https://www.shadertoy.com/view/ttKGDt |
-| <img src="https://github.com/Cheshulko/Flutter-Shader-GLSL/blob/main/assets/sc_6.png?raw=true" width="532" height="400" /> | assets/shader_test_4.glsl | https://www.shadertoy.com/view/3sySRK |
+| <img src="https://github.com/Cheshulko/Flutter-Shader-GLSL/blob/main/assets/sc_4.png?raw=true" width="266" height="200" /> | assets/shader_test_1.glsl | https://www.shadertoy.com/view/Ml2XRD |
+| <img src="https://github.com/Cheshulko/Flutter-Shader-GLSL/blob/main/assets/sc_3.png?raw=true" width="266" height="200" /> | assets/shader_test_2.glsl | https://www.shadertoy.com/view/ftSSRR |
+| <img src="https://github.com/Cheshulko/Flutter-Shader-GLSL/blob/main/assets/sc_5.png?raw=true" width="266" height="200" /> | assets/shader_test_3.glsl | https://www.shadertoy.com/view/ttKGDt |
+| <img src="https://github.com/Cheshulko/Flutter-Shader-GLSL/blob/main/assets/sc_6.png?raw=true" width="266" height="200" /> | assets/shader_test_4.glsl | https://www.shadertoy.com/view/3sySRK |
