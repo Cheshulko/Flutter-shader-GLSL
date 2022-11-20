@@ -1,7 +1,6 @@
 # Flutter-Shader-GLSL
 
 ## Overview
-4
 Flutter 3.4+ GLSL shaders 
 
 ## Preconditions
