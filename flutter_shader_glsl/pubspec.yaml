@@ -1,0 +1,26 @@
+name: flutter_shader_glsl
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter  
+  cupertino_icons: ^1.0.2
+  statsfl: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  shaders:
+    - assets/shaders/shader_test_1.glsl
+    - assets/shaders/shader_test_2.glsl
+    - assets/shaders/shader_test_3.glsl
+    - assets/shaders/shader_test_4.glsl
+  uses-material-design: true
